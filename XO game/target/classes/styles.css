@@ -1,0 +1,20 @@
+.gridpane{
+    -fx-background-color: lightblue;
+}
+.title{
+-fx-font-size: 20px;
+-fx-font-weight: bold;
+-fx-text-fill:#000000;
+-fx-font-family:"Arial";
+}
+.rest{
+    -fx-background-color: darkslateblue;
+    -fx-text-fill: white;
+    -fx-font-size: large;
+}
+.Text{
+    -fx-font: normal bold 20px 'serif';
+}
+.labl{
+    -fx-font: normal bold 30px 'serif';
+}
